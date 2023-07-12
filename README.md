@@ -18,7 +18,7 @@
 > 기술 스택
 : Python 3.10.6 / Django 4.2.2 / DRF 3.14.0 / Django simple JWT 5.2.2 / Selenium / Redis 4.1.0 / Django Channels 4.0.0 / AWS EC2 / AWS Route 53 / AWS CloudFront / Gunicorn / Nginx 1.18.0 / Docker 20.10.21 / AWS S3 / Daphne / PostgreSQL / HTML5 / JavaScript / CSS3 / Notion / Github / Git 
 >
-> [프로젝트 상세 설명](https://github.com/ChaeYami/portfoilo/blob/main/My%20Gallery.md) 참고
+> [프로젝트 상세 설명](https://github.com/ChaeYami/portfoilo/blob/main/ConnectME.md) 참고
 
 ---
 
