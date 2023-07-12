@@ -1,5 +1,5 @@
 # ConnectME
->Django DRF를 활용한 온라인 친구 만들기 커뮤니티   
+>맞춤 친구 추천, 1:1 채팅까지! 맞춤 추천 친구 만들기 커뮤니티 (팀 프로젝트)
 >https://connectme.co.kr/
 
 </br>
