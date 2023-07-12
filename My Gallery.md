@@ -1,4 +1,4 @@
-# ConnectME
+# My Gallery
 >사진을 그림으로 변환해주는 나만의 갤러리 컨셉의 SNS  
 >https://github.com/ChaeYami/My_Gallery
 
